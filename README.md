@@ -1,1 +1,23 @@
-# Web-Scrapping-2
+# 🔍 Mass Shootings in the United States – 2022
+
+This is a simple project where I tried **real-time web scraping** using Python.
+
+---
+
+## 📌 What I Did
+
+- Scraped a table from Wikipedia using BeautifulSoup and pandas.
+- Cleaned the data to remove unnecessary notes like .
+- Saved the cleaned data as a CSV file.
+
+---
+
+## 🛠️ Tools Used
+
+- Python
+- BeautifulSoup
+- pandas
+- requests
+- regex (re)
+
+---

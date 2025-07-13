@@ -4,6 +4,8 @@ This is a simple project where I tried **real-time web scraping** using Python.
 
 ---
 
+Link to the website : https://en.wikipedia.org/wiki/List_of_mass_shootings_in_the_United_States
+
 ## 📌 What I Did
 
 - Scraped a table from Wikipedia using BeautifulSoup and pandas.
